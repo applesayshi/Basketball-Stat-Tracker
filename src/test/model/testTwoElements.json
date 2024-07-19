@@ -1,0 +1,32 @@
+{"Players": [
+  {
+    "Player": "q",
+    "stats": {
+      "assists": 0,
+      "blocks": 0,
+      "all points": [],
+      "name": "q",
+      "weight": 1,
+      "all blocks": [],
+      "all assists": [],
+      "age": 1,
+      "height": 1,
+      "points": 0
+    }
+  },
+  {
+    "Player": "w",
+    "stats": {
+      "assists": 0,
+      "blocks": 0,
+      "all points": [],
+      "name": "w",
+      "weight": 2,
+      "all blocks": [],
+      "all assists": [],
+      "age": 2,
+      "height": 2,
+      "points": 0
+    }
+  }
+]}
